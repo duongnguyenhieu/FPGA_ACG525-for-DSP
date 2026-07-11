@@ -1,9 +1,6 @@
 <<<<<<< HEAD
 /*-------------------------------------------------------------------------
  * Module: register_map
- * Project: Thiết bị Đo lường Số Mini Cấu hình bằng Phần mềm
- * Developer: Dương Nguyễn Hiếu
- * Affiliation: VNU-UET / SISLAB
  * Description: Khối Bản đồ Thanh ghi Cấu hình và Trạng thái.
  * Đã cập nhật hỗ trợ Hysteresis Trigger và Pre/Post-Triggering.
  *-------------------------------------------------------------------------*/
