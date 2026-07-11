@@ -1,0 +1,95 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+!s12c _opt
+R0
+!s11f vlog 2025.2 2025.05, May 31 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Gowin/Gowin_V1.9.12.03_x64/IDE/bin/Documents/fpga_project_ACG525/src
+T_opt
+!i145 1
+!i144 0
+!s110 1782803198
+VHUJ7:9cMKDMe<2mf8loK00
+Z2 04 22 4 work spi_slave_interface_tb fast 0
+=1-fc5ceeedd083-6a436afa-244-5654
+R0
+Z3 !s12f OEM100
+Z4 !s12b OEM100
+Z5 !s124 OEM10U2 
+Z6 !s135 nogc
+o-quiet -auto_acc_if_foreign -work work
+Z7 tCvgOpt 0 defaultOptions 1107585188
+n@_opt
+Z8 OL;O;2025.2;82
+R1
+T_opt1
+!i145 1
+!i144 0
+!s110 1782803435
+VZeio<LF;iae3g=BzLZDXk1
+R2
+=1-fc5ceeedd083-6a436beb-118-368c
+R0
+R3
+R4
+R5
+R6
+o-quiet -auto_acc_if_foreign -work work +acc
+R7
+n@_opt1
+R8
+R1
+vspi_slave_interface
+Z9 2spi_slave_interface.v|spi_slave_interface_tb.v
+Z10 !s110 1783170064
+!i10b 1
+!s100 B3Q`M?djTAKo9=LEQP<??1
+IiJ35B5NQYbkf]TjDl][NM1
+R1
+w1782798230
+8spi_slave_interface.v
+Fspi_slave_interface.v
+!i122 3
+L0 3 96
+Z11 VDg1SIo80bB@j0V0VzS_@n1
+Z12 OL;L;2025.2;82
+r1
+!s85 0
+31
+Z13 !s108 1783170064.000000
+!s107 spi_slave_interface_tb.v|spi_slave_interface.v|
+Z14 !s90 -reportprogress|300|spi_slave_interface.v|spi_slave_interface_tb.v|
+!i113 0
+Z15 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z16 tCvgOpt 0 defaultOptions 1085333592
+vspi_slave_interface_tb
+R9
+R10
+!i10b 1
+!s100 n7NXcT5nbcnaHnBKAVKcm1
+Ii4K=5LfNWIBl?3BOkGC<X2
+R1
+w1782798621
+8spi_slave_interface_tb.v
+Fspi_slave_interface_tb.v
+!i122 3
+L0 3 92
+R11
+R12
+r1
+!s85 0
+31
+R13
+Z17 !s107 spi_slave_interface_tb.v|spi_slave_interface.v|
+R14
+!i113 0
+R15
+R16
