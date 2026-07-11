@@ -1,0 +1,1 @@
+C:/altera/25.1std/questa_fse/win64/VisualizerRls/bin/viscom.exe -nolock -quiet -jmem_size 541104 work.spi_slave_interface_tb -quiet -auto_acc_if_foreign -work work +acc -allow_unnamed -o _opt1 -id 1-fc5ceeedd083-6a436beb-118-368c +__betafsm
