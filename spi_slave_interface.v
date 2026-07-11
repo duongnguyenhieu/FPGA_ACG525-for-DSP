@@ -95,4 +95,8 @@ module spi_slave_interface (
         end
     end
 
+<<<<<<< HEAD
 endmodule
+=======
+endmodule
+>>>>>>> origin/main
